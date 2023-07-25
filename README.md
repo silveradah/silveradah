@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silveradah
 - 👀 I’m interested in computing and programming
-- 🌱 I’m currently learning learni python programming language
+- 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 
